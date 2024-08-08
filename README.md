@@ -9,12 +9,13 @@
 at the addres bar, edit the url:
 
 ````bash
-http://127.0.0.1:8000```
+http://127.0.0.1:8000
+```
 
 edit into
 
 ```bash
-http://127.0.0.1:8000/fauzy```
-
+http://127.0.0.1:8000/fauzy
+```
 
 ````
