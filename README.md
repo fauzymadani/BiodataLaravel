@@ -1,21 +1,23 @@
-## biodata with laravel
+# Tugas instalasi laravel dan pembuatan database
 
--   php : 8.3
--   composer : 2.7.7
--   Laravel : 10.0
+-   composer : v2.7.7
+-   php : v8.2
+-   git : v2.39.2
 
-# How to run/Preview
+## preview/run
 
-at the addres bar, edit the url:
-
-````bash
-http://127.0.0.1:8000
-```
-
-edit into
+To Preview this project run
 
 ```bash
-http://127.0.0.1:8000/fauzy
+  php artisan serve
 ```
 
-````
+edit the url with the route :
+
+```bash
+  http://127.0.0.1:8000/fauzy
+```
+
+the `/fauzy` is the route.
+
+i forgot to delete the default route
