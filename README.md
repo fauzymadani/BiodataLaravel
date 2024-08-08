@@ -1,4 +1,4 @@
-# Tugas instalasi laravel dan pembuatan database
+# Biodata with Laravel
 
 -   composer : v2.7.7
 -   php : v8.2
